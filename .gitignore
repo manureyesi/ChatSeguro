@@ -19,5 +19,21 @@
 *.tar.gz
 *.rar
 
+# Cliente
+/ClienteChatSeguro/build/
+/ClienteChatSeguro/dist/
+/ClienteChatSeguro/log/
+/ClienteChatSeguro/nbproject/
+/ClienteChatSeguro/build.xml
+/ClienteChatSeguro/manifest.md
+
+# Servidor
+/ServidorChatSeguro/build/
+/ServidorChatSeguro/dist/
+/ServidorChatSeguro/log/
+/ServidorChatSeguro/nbproject/
+/ServidorChatSeguro/build.xml
+/ServidorChatSeguro/manifest.md
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
