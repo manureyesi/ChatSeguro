@@ -25,7 +25,7 @@
 /ClienteChatSeguro/log/
 /ClienteChatSeguro/nbproject/
 /ClienteChatSeguro/build.xml
-/ClienteChatSeguro/manifest.md
+/ClienteChatSeguro/manifest.mf
 
 # Servidor
 /ServidorChatSeguro/build/
@@ -33,7 +33,7 @@
 /ServidorChatSeguro/log/
 /ServidorChatSeguro/nbproject/
 /ServidorChatSeguro/build.xml
-/ServidorChatSeguro/manifest.md
+/ServidorChatSeguro/manifest.mf
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
